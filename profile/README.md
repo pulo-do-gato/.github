@@ -1,4 +1,6 @@
-## Hi there 👋
+## Pulo do gato 🐱
+
+![Pulo do gato](./img/pulo-do-gato_253x253-preto-bg-branco.png)
 
 **Here are some ideas to get you started:**
 
